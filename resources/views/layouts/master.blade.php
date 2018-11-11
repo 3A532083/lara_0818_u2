@@ -1,4 +1,5 @@
 <html>
+
     <head>
         <title>
             @yield('title')| My Blog
@@ -9,4 +10,5 @@
         @yield('content')
     </div>
     </body>
+
 </html>
